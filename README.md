@@ -1,2 +1,2 @@
 # cs690d-mtproject
-Machine Translation 
+Machine Translation from German-English on IWSLT-2017 Dataset
